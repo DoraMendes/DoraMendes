@@ -3,9 +3,34 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<div class="row">
+  <div class="column">
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a>
+  </div>
+  <div class="column">
+    
+  </div>
+  <div class="column">
+    
+  </div>
+   <div class="column">
+    
+  </div>
+   <div class="column">
+    
+  </div>
+   <div class="column">
+    
+  </div>
+   <div class="column">
+    
+  </div>
+</div>
+
+
 <p align="center"> 
   
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a>
   
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
   
