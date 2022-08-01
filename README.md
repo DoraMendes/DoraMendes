@@ -1,6 +1,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dorafialhomendes/" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dorafialhomendes/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png](https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="30" width="40" /></a>
 </p>
 
 
