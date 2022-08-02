@@ -1,99 +1,106 @@
- <!-- retro visitor counter
- <p align="center"> 
-  <img src="https://profile-counter.glitch.me/{DoraMendes}/count.svg" />
- </p>
- -->
- 
- 
- <!-- welcome message -->
- <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
- <h4>Glad to see you here!</h4>
-  
-  <p align="left"> 
-   <a href="https://www.linkedin.com/in/dorafialhomendes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<!-- <p align='center'>
+    <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
+</p> -->
 
-![Watchers](https://img.shields.io/github/watchers/DoraMendes/DoraMendes?style=social)
+<!-- <div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
+</div> -->
+
+<!-- welcome message -->
+### Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ![](https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=About.me&logoColor=white) -->
+<p align='justify'>
+ I'm an undergraduate student in Computer Engineering (after-work classes) at ESTG – IPLeiria. I have a BSc in Biology but I've fell in love with the programming world. <br> 
+ I'm always ready to learn the most I possibly can!
+</p>  
+
+<p align='center'>
+    <a href='https://github.com/DoraMendes?tab=repositories&sort=stargazers'>
+        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DoraMendes'/>
+    </a>
+    <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DoraMendes&logo=Github&style=for-the-badge&color=16a085'>
+    <a href='https://github.com/DoraMendes?tab=followers'>
+        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/DoraMendes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+        <br>
+    </a>
+    <a href='https://www.linkedin.com/in/dorafialhomendes' target='_blank'>
+        <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
+    </a>
+    <a href='mailto:2212488@my.ipleiria.pt' target='_blank'>
+        <img src='https://img.shields.io/badge/Email%20me-blue?style=for-the-badge&logo=gmail&logoColor=white'/>
+ </a>
 </p>
 
 
- <br>
 
- 
-  <!-- about me -->
-  <h4>About me:</h4>
-  <h5>I'm an undergraduate student in Computer Engineering (after-work classes) at ESTG – IPLeiria // BSc in Biology.</h5>
-  
+## 
 
- 
+<!-- Languages -->
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=black&fontColor=5382a1)
+![](https://img.shields.io/badge/API-44555f?style=for-the-badge&logo=java&logoColor=black&fontColor=5382a1)
 
- 
- 
- <br>
- 
- <!-- Languages and tools -->
-  <h3 align="left">📌 Languages and Tools:</h3>
- <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
-     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>  
-        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a>  
- </p>
- 
- 
- 
- 
- <!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
+<!-- Frameworks -->
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white-9)
 
+<!--IDEAs -->
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<p>
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoraMendes&show_icons=true&hide_border=true&theme=dracula" />
+<!-- O.S. -->
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<!-- Tools -->
+![](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraMendes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+<!--  Prototyping Platforms -->
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+ 
+ 
+ ## 
+ ### ⚡ CODING STATS
 
+<p align = 'center'>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoraMendes&show_icons=true&hide_border=true&theme=dark" /> -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoraMendes&show_icons=true&hide_border=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraMendes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p>
  
+<!-- try these themes: dark // gotham // vue // dracula // zenburn // github_dark -->  
+
+
+## 
+### ⚡ STREAK STATS
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=DoraMendes&theme=dark&hide_border=true'>
+</p>
+
+
+<!-- <p align = 'center'>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoraMendes&theme=zenburn"/>
+</p> -->
+
+
+
+
+
+
+
+
+
  
- 
-
-
-  
-  
-
-
- 
-
-
-  
-
- 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
-
-
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Android_Studio](https://img.shields.io/badge/-Android%20Studio-%233DDC84?&style=flat-square&logo=android-studio&logoColor=%23ffffff)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%0000004?&style=flat-square&logo=android-studio&logoColor=%23ffffff)
-  
-
-
 
 <!--
 **DoraMendes/DoraMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
