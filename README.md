@@ -118,8 +118,8 @@
 
 <p align = 'center'>
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoraMendes&show_icons=true&hide_border=true&theme=apprentice" /> -->
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoraMendes&show_icons=true&hide_border=true&theme=apprentice" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraMendes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=apprentice"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoraMendes&show_icons=true&hide_border=true&theme=gotham" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraMendes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=gotham"/>
 </p>
  
 <!-- try these themes: dark // gotham // vue // dracula // zenburn // github_dark // apprentice -->  
@@ -128,12 +128,12 @@
 ## 
 ### STREAK STATS
 <p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=DoraMendes&hide_border=true&theme=darcula'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=DoraMendes&hide_border=true&theme=gotham'>
 </p>
 
 
 <!-- <p align = 'center'>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoraMendes&theme=apprentice"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoraMendes&theme=github_dark"/>
 </p> -->
 
 
