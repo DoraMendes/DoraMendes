@@ -12,7 +12,10 @@
 </div> -->
 
 <!-- welcome message -->
-### Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+
+
 <!-- ![](https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=About.me&logoColor=white) -->
 <p align='justify'>
  I'm an undergraduate student in Computer Engineering (after-work classes) at ESTG – IPLeiria. I have a BSc in Biology from the University of Évora (2017-2020) but I fell in love with the programming world. <br> 
@@ -62,7 +65,8 @@
    
 </p>
 
-## 
+<!-- ## makes a line -->
+
 ### Skills
 - JavaScript | PHP | HTML5 | CSS3 | Bootstrap | Java | Python | C
 - API development
