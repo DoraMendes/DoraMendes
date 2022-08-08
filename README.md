@@ -49,6 +49,7 @@
     <a href='mailto:2212488@my.ipleiria.pt' target='_blank'>
         <img src='https://img.shields.io/badge/Email%20me-red?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
+    <!--
     <a href='https://github.com/DoraMendes?tab=repositories&sort=stargazers'>
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DoraMendes'/>
     </a>
@@ -56,22 +57,22 @@
     <a href='https://github.com/DoraMendes?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/DoraMendes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
     </a>
+    -->
     
    
 </p>
 
-
 ## 
+### Skills
+- JavaScript | PHP | HTML5 | CSS3 | Bootstrap | Java | Python | C
+- API development
+- Android Studio | Arduino | IntelliJ | Visual Studio Code
+- Linux (Ubuntu) 
+- Git Bash | Adobe Lightroom
 
-• JavaScript | PHP | HTML5 | CSS3 | Bootstrap | Java | Python | C
-<br>
-• API development
-<br>
-• Android Studio | Arduino | IntelliJ | Visual Studio Code
-<br>
-• Linux (Ubuntu) 
-<br>
-• Git Bash | Adobe Lightroom
+
+### Currently learning:
+- mySQL (Udemy)
 
 
 <!-- Languages
@@ -113,28 +114,28 @@
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 -->
  
+ 
+ 
+ 
+ <!--
  ## 
  ### CODING STATS
 
 <p align = 'center'>
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoraMendes&show_icons=true&hide_border=true&theme=apprentice" /> -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoraMendes&show_icons=true&hide_border=true&theme=gotham" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraMendes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=gotham"/>
 </p>
+-->
  
 <!-- try these themes: dark // gotham // vue // dracula // zenburn // github_dark // apprentice -->  
 
-
+<!--
 ## 
 ### STREAK STATS
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=DoraMendes&hide_border=true&theme=gotham'>
 </p>
-
-
-<!-- <p align = 'center'>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoraMendes&theme=github_dark"/>
-</p> -->
+-->
 
 
 
