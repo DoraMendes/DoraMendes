@@ -76,7 +76,7 @@
 
 
 ### Currently learning:
-- mySQL @ [Udemy](https://www.udemy.com/share/101Wq03@DR0yJVwce3eKh3fAzOp4HDnlv-W8XqSfznu1JrGM-AqShaiSLRQY6vrMPuz-WVxM/)
+- mySQL @ [Udemy](https://www.udemy.com/share/101Wiw3@eI-EAS_oFqm0GsHzB5N5oANIDRU4b_zk3qvGy5H9EiImawa9BdfKJpPZ0vCsK-n3/)
 
 
 
