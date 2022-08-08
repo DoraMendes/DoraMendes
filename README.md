@@ -18,7 +18,7 @@
 
 <!-- ![](https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=About.me&logoColor=white) -->
 <p align='justify'>
- I'm an undergraduate student in Computer Engineering (after-work classes) at ESTG – IPLeiria. I have a BSc in Biology from the University of Évora (2017-2020) but I fell in love with the programming world. <br> 
+ I'm an undergraduate student in Computer Engineering (after-work classes) at ESTG – IPLeiria. I have a Bachelor's Degree in Biology from the University of Évora (2017-2020) but I fell in love with the programming world. <br> 
  I'm always ready to learn the most I possibly can!
 </p>  
 
