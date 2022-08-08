@@ -67,7 +67,7 @@
 
 <!-- ## makes a line -->
 
-### Skills
+### Skills:
 - JavaScript | PHP | HTML5 | CSS3 | Bootstrap | Java | Python | C
 - API development
 - Android Studio | Arduino | IntelliJ | Visual Studio Code
