@@ -70,13 +70,14 @@
 ### Skills:
 - JavaScript | PHP | HTML5 | CSS3 | Bootstrap | Java | Python | C
 - API development
-- Android Studio | Arduino | IntelliJ | Visual Studio Code
 - Linux (Ubuntu) 
+- Android Studio | Arduino | IntelliJ | Visual Studio Code
 - Git Bash | Adobe Lightroom
 
 
 ### Currently learning:
-- mySQL (Udemy)
+- mySQL @ [Udemy](https://www.udemy.com/share/101Wq03@DR0yJVwce3eKh3fAzOp4HDnlv-W8XqSfznu1JrGM-AqShaiSLRQY6vrMPuz-WVxM/)
+
 
 
 <!-- Languages
