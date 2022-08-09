@@ -69,7 +69,7 @@
 
 ### Skills:
 - JavaScript | PHP | HTML5 | CSS3 | Bootstrap | Java | Python | C
-- API development
+- REST API development
 - Linux (Ubuntu) 
 - Android Studio | Arduino | IntelliJ | Visual Studio Code
 - Git Bash | Adobe Lightroom
